@@ -8,5 +8,6 @@ public class gittest {
 		System.out.println("我来制造一些麻烦");
 		System.out.println("我是程序员1号");
 		System.out.println("我是程序员2号");
+		System.out.println("2号又来了");
 	}
 }
