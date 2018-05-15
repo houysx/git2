@@ -4,6 +4,7 @@ public class gittest {
 
 	public static void main(String[] args) {
 		System.out.println();
-		System.out.println("³ÌĞòÔ±2ºÅÀ´ÁË");
+		System.out.println("æˆ‘æ˜¯ç¨‹åºå‘˜2å·");
+		System.out.println("æˆ‘æ¥åˆ¶é€ ä¸€äº›éº»çƒ¦");
 	}
 }
